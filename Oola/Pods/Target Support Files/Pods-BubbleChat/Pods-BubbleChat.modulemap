@@ -1,0 +1,6 @@
+framework module Pods_BubbleChat {
+  umbrella header "Pods-BubbleChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
